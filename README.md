@@ -14,7 +14,5 @@ Data Structures and Algorithms.
 
 Competitive Programming.
 
-Full-stack Web Development.
-
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef.
 
