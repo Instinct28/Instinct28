@@ -10,7 +10,7 @@ Aspiring to solve real-world challenges using technology.
 
 My skills include:
 
-Data Structures and Algorithms.
+Data Structures and Algorithms, Java, Spring, Spring Boot, Html, Css, JavaScript and SQL.
 
 Competitive Programming.
 
