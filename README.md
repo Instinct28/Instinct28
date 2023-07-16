@@ -1,5 +1,5 @@
 Hello there 👋
-I am Yash Kumar Bandhiye, and I am a student developer. I am currently pursuing the fourth year of Computer Engineering from Shri G. S. Institute of Technology and Science, Indore.
+I am Yash Kumar Bandhiye, and I am a student developer. I am currently pursuing the fourth year of Computer Engineering from Shri G. S. Institute of Technology and Science.
 
 About Me:
 
