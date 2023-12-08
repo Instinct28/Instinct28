@@ -1,5 +1,5 @@
 Hello there 👋
-I am Yash Kumar Bandhiye, and I am a student developer. I graduated in Computer Engineering from Shri G. S. Institute of Technology and Science.
+I am Yash Kumar Bandhiye, and I am a software developer. I graduated in Computer Engineering from Shri G. S. Institute of Technology and Science.
 
 About Me:
 
